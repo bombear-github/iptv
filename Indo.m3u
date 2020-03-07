@@ -10,8 +10,6 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="ID" tvg-url="" group-title="",MNC
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://devanyahya.web.id/mnclogo.png" tvg-country="ID" tvg-url="" group-title="",MNC TV 2
-https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="ID" tvg-url="" group-title="",TRANS 7
 http://id2.indostreamingtv.com/live/trans7/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="ID" tvg-url="" group-title="",TRANS 7 2
@@ -116,7 +114,6 @@ https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NETTV.m3u8
 https://epl-inews.mncnow.id:443/live/eds/RTV/sa_hls/RTV-avc1_1000000=8-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="http://www.jawapos.tv/images/logo_jawapos.png" group-title="Indonesia",Jawa Pos
 https://dl.dropbox.com/s/c5pe05bpznbafh3/Jawapos2.m3u8?dl=1
-
 #EXTINF:-1 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="Indonesia",ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/BaliTV.id.png" group-title="Indonesia",Bali TV
@@ -129,12 +126,10 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_24
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DisneyXD.de.png" group-title="Indonesia",Disney XD Indonesia
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
-
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_92.png" group-title="Indonesia",Muslim TV
 https://anevia115.mncnow.id/live/eds/AutoGadget/sa_hls/AutoGadget-avc1_2499968=7-mp4a_98800_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_imc_small.png" group-title="Indonesia",IMC
 https://dl.dropbox.com/s/fg1m1e3kfnbza58/IMC.m3u8?dl=1
-
 #EXTINF:-1 tvg-logo="http://www.jtv.co.id/image/logojtv1.png" group-title="Indonesia",JTV
 http://122.248.43.138:1935/ch2/myStream/chunklist_w1542065869.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/JakTV.id.png" group-title="Indonesia",JAK tv
@@ -143,9 +138,6 @@ https://anevia115.mncnow.id:443/live/eds/JakTV/sa_hls/JakTV.m3u8
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2288000.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Indonesia",J'Go FMP
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-
-
-
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/ComedyChannel.png/revision/latest/scale-to-width-down/250?cb=20170508142624" group-title="Indonesia",MNC Comedy
 https://anevia115.mncnow.id:443/live/eds/ComedyChannel/sa_hls/ComedyChannel.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d5/MNCLifestyle_tegak.png/revision/latest/scale-to-width-down/340?cb=20171212083307" group-title="Indonesia",MNC Lifestyle
